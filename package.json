@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Anshmangithub.github.io/ansh-portfolio",
-  "name": "react-portfolio",
+  "homepage": "https://Anshmangithub.github.io/ansh_portfolio",
+  "name": "ansh-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,11 +13,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
+    "@react-three/postprocessing": "^2.19.1",
     "framer-motion": "^11.3.28",
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.26",
+    "postprocessing": "^6.39.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
-    "react-router-dom": "^5.3.0"
+    "react-router-dom": "^6.30.6",
+    "three": "^0.186.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
